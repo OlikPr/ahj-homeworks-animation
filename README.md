@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/wknk9wwaec68b8qt?svg=true)](https://ci.appveyor.com/project/OlikPr/ahj-homeworks-animation)
 
-https://olipr.github.io/ahj-homeworks-animation/
+https://olikpr.github.io/ahj-homeworks-animation/
 ---
 
 ### Collapse
